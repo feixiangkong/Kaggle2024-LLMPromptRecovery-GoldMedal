@@ -1,0 +1,11 @@
+# 训练数据
+https://www.kaggle.com/datasets/mozhiwenmzw/llmpr-public-10k-unique
+
+# 模型 mistral-7b v0.2
+https://www.kaggle.com/datasets/ahmadsaladin/mistral-7b-it-v02
+
+
+# 其他导入的库
+https://www.kaggle.com/datasets/datafan07/llm-whls
+https://www.kaggle.com/code/levantaokkz/library-off-for-llm
+https://www.kaggle.com/datasets/tongkokoro/llm-peft-pkg

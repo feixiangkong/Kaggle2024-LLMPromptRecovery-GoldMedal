@@ -1,0 +1,6 @@
+pip
+pip install bitsandbytes==0.41.1
+pip install peft==0.10.0
+pip install transformers==4.38.2
+pip install trl==0.8.6
+pip install accelerate==0.28.0
